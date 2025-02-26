@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @QwameEt. my full name is Ethelbert Doe Kpata
+- 👋 Hi, I’m @QwameEt. My full name is Ethelbert Doe Kpata
 - 👀 I’m interested in Data analystics, Cyber Security and Cloud Computing.
-- 🌱 I’m currently learning Cloud computing and Cyber security
+- 🌱 I’m currently learning Cloud Computing and Cyber security
 - 💞️ I’m looking to collaborate on Cloud Computing 
 - 📫 How to reach me .. Send me an email: ethelbertdoe1@gmail.com
 - 😄 Pronouns: ... he/his/him
